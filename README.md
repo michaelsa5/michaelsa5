@@ -21,12 +21,14 @@
 ## 💼 Projetos em Destaque
 
 ### 🔍 [Análise de Sentimento do Mercado](https://github.com/michaelsa5/analise-sentimento-mercado)
+-[Link da API](https://dashboardapppy-giaeytncldtyb3fbwbyri4.streamlit.app/)
 > Coleta e análise de dados de **notícias financeiras** para identificar o **sentimento do mercado** (positivo/negativo/neutro) com técnicas de NLP.  
 **Tecnologias:** Python, NLP, Selenium, Pandas, Streamlit
 
 ---
 
 ### 📉 [Previsão de Churn de Clientes](https://github.com/michaelsa5/previsao-de-churn-de-clientes)
+-[Link da API](https://2z3ej5ktwlb67zvwikhnex.streamlit.app/)
 > Modelo de machine learning para prever clientes com risco de cancelamento com base em dados comportamentais.  
 **Tecnologias:** Python, Scikit-Learn, Pandas, Random Forest, Matplotlib
 
