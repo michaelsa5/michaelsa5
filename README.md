@@ -22,7 +22,8 @@
 
 ### 🔍 [Análise de Sentimento do Mercado](https://github.com/michaelsa5/analise-sentimento-mercado)
 -[Link da API](https://dashboardapppy-giaeytncldtyb3fbwbyri4.streamlit.app/)
-> Coleta e análise de dados de **notícias financeiras** para identificar o **sentimento do mercado** (positivo/negativo/neutro) com técnicas de NLP.  
+> análise e visualização de dados com foco em Inteligência Competitiva, integrando Web Scraping, Análise Exploratória, Tendências de Busca e Reputação de Marcas no segmento de smartphones.
+  
 **Tecnologias:** Python, NLP, Selenium, Pandas, Streamlit
 
 ---
